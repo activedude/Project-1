@@ -1,2 +1,2 @@
 # Project-1
-autho - Adarsh Naik
+author - Adarsh Naik
